@@ -1,2 +1,2 @@
 # Quantum_day_senac
-Repositório criado para abrigaros HandsOn do evento Quantum Day Senac.
+Repositório criado para abrigar os HandsOn do evento Quantum Day Senac.
